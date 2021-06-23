@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @simpar1471, an undergrad at the University of Edinburgh currently working on patterns of palmitoylation in the mouse anterior lobe.
-- 👀 I’m interested in bioinformatics, mainly, but I enjoy scripting for silly reasons too. 
-- 🌱 I’m currently learning how to integrate bits (very small portions) of Python with R, and working on how best to structure projects for both readability and utility.
+- 👋 Hi, I’m @simpar1471, a recent University of Edinburgh graduate headed to Imperial College London to work in cancer informatics.
+- 👀 I mainly script for bioinformatics-related purposes, but enjoy coding for my own enjoyment too.
+- 🌱 I’m currently working on how best to structure projects for both readability and utility.
 
 <!---
 simpar1471/simpar1471 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
