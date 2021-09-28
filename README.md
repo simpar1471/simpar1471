@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @simpar1471, a recent University of Edinburgh graduate headed to Imperial College London to work in cancer informatics.
+- 👋 Hi, I’m @simpar1471, a recent University of Edinburgh graduate currently studying Cancer Informatics at Imperial College London.
 - 👀 I mainly script for bioinformatics-related purposes, but enjoy coding for my own enjoyment too.
 - 🌱 I’m currently working on how best to structure projects for both readability and utility.
 
