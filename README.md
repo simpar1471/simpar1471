@@ -2,7 +2,7 @@
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simpar1471)](https://github.com/anuraghazra/github-readme-stats)
 
-<\div>
+</div>
  - 👋 Hi, I’m @simpar1471, a University of Edinburgh graduate who recently completed the Cancer Informatics MRes course at Imperial College London. I currently work with Dr Eric Ohuma at the London School of Hygiene and Tropical Medicine.
 - 👀 I mainly script for bioinformatics-related purposes, but enjoy coding for my own enjoyment too.
 - 🌱 I’m currently working on how best to structure projects for both readability and utility.
